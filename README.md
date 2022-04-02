@@ -7,3 +7,9 @@ Over the years Meccy grew into a full mecanum drive base with the 2012 FRC Contr
 
 ***now...***
 Introducing Meccy 5.0. A mecanum drive base robot much smaller then their father sporting a full 2022 control system and the ability to see!
+
+
+To-Do:
+
+solvePNP
+ROS
